@@ -16,7 +16,7 @@ Implementation and simulation
 The expected result is a short (1-2 pages) report with you findings + links to experiments
 
 ## Report
-Link: 
+See file `report.md`
 
 ## Sources
 1. A Tutorial on Thompson Sampling https://github.com/iosband/ts_tutorial
